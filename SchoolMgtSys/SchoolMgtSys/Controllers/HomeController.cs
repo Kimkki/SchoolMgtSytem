@@ -26,5 +26,6 @@ namespace SchoolMgtSys.Controllers
 
             return View();
         }
+
     }
 }
